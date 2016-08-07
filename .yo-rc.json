@@ -1,7 +1,7 @@
 {
   "generator-react-webpack": {
-    "appName": "yeomanReactTest",
-    "style": "scss",
+    "appName": "yeomanReactTestReactTest",
+    "style": "css",
     "postcss": true,
     "generatedWithVersion": 3
   }

@@ -5,4 +5,3 @@ import App from './components/Main';
 
 // Render the main component into the dom
 ReactDOM.render(<App />, document.getElementById('app'));
-ReactDOM.render(<Content/>, document.getElementById('content'));
